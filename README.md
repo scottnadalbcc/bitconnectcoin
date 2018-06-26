@@ -9,3 +9,5 @@ If they dont, the project is dead. Otherwise, the coin will revive.
 https://coinmarketcap.com/currencies/bitconnect/#markets
 
 https://youtu.be/e5nyQmaq4k4?list=RD61i2iDz7u04
+
+https://thenextweb.com/hardfork/2018/01/17/bitconnect-bitcoin-scam-cryptocurrency/
