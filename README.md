@@ -2,6 +2,8 @@ This project is an attempt to save the name (Bitconnect) and the ticker (BCC) on
 
 We will first tranform Bitconnect into an Bitcoin clone (maybe changing PoW algo before Bitcoin. GMO-SHA2 or Halong-SHA2 or Canaan-SHA2).
 
+https://twitter.com/LukeDashjr/status/1004044947606179840
+
 We will fork blockchain in near future and try to convince tradesatoshi to upgrade to our deamon.
 
 If they dont, the project is dead. Otherwise, the coin will revive.
